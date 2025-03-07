@@ -5,7 +5,7 @@ int main()
 
     // the no. is divisble by 5 or not
 
-/*    int n;
+    int n;
     printf("enter the value of n");
     scanf("%d", &n);
     printf("the value of n is=%d",n);
@@ -16,7 +16,7 @@ int main()
     else{
         printf("\nthe value is not divisible by 5");
     } 
-       return 0;*/
+       return 0;
 
     // ------------------ YEAR IS LEAP OR NOT-------------------------------------------------
  
